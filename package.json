@@ -1,0 +1,23 @@
+{
+  "name": "nyt-react-search",
+  "version": "1.0.0",
+  "description": "react scrapper",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": [
+    "express",
+    "request",
+    "cheerio",
+    "body-parser",
+    "morgan",
+    "axios",
+    "mongoose"
+  ],
+  "author": "Chris Daly",
+  "license": "ISC"
+}
